@@ -1,0 +1,20 @@
+[
+    {
+      "title": "Yerba",
+      "description": "Hierbas Serranas",
+      "price": 950,
+      "thumbnail": "http://www.taragui.com",
+      "code": 420,
+      "stock": 250,
+      "id": 1
+    },
+    {
+      "title": "Cafe",
+      "description": "Arabico",
+      "price": 1500,
+      "thumbnail": "http://www.starbucks.com",
+      "code": 870,
+      "stock": 15,
+      "id": 2
+    }
+  ]
